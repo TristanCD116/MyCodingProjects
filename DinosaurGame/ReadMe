@@ -21,7 +21,7 @@ Assemble the circuit following the diagram schematics.fzz attached to the sketch
 
 == Step 3: Load the code
 
-Upload the code contained in this sketch on to your arduino UNO Rev3
+Upload the code contained in this sketch on to your arduino Nano
 
 === Folder structure
 
