@@ -28,10 +28,10 @@ Upload the code contained in this sketch on to your arduino UNO Rev3
 ....
   AlarmClock          => Arduino sketch folder
   Code.ino            => main Arduino file
-  Schematics.png      => an image of the required schematics
+  Schematics.fzz      => an image of the required schematics
   Libraries.zip       => required libaries download
-  Layout.png          => an image of the layout
-  ReadMe.ino         => this file
+  Layout.jpeg         => an image of the layout
+  ReadMe.txt          => this file
 ....
 
 === License
