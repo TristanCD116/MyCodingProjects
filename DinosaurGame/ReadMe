@@ -26,7 +26,7 @@ Upload the code contained in this sketch on to your arduino UNO Rev3
 === Folder structure
 
 ....
-  AlarmClock          => Arduino sketch folder
+  DinosaurGame        => Arduino sketch folder
   Code.ino            => main Arduino file
   Schematics.fzz      => an image of the required schematic
   Layout.jpeg         => an image of the layout
