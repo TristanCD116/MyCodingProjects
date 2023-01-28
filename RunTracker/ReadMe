@@ -7,6 +7,7 @@
 = Project: {RunTracker}
 
 USes a laser diode and a photoresistor to detect when you pass the gate. Useful for timing 40 yard dashes!
+Note: Compatible with Arduino UNO Rev3 and must be used with a laser pointer/diode
 
 == Step 1: Installation
 
@@ -47,7 +48,7 @@ Add the bill of the materials you need for this project.
 | P1 | Potentiometer  | 72-PRV6SAABGY25204JA | 1
 | A1 | Arduino Uno    | A000066              | 1
 | R2 | 10k Resistor   | GS-0872              | 1
-
+| S1 | IR receiver    | NS50PH3              | 1
 |===
 
 
