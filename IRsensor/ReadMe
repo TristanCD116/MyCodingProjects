@@ -1,0 +1,55 @@
+:Author: Tristan Dermody
+:Email: tristandermody8@gmail.com
+:Date: 08/07/2021
+:Revision: version#1.0
+:License: Public Domain
+
+== Project: {IRsensor}
+
+A useful bit of code for when you're using IR remotes in your projects. Easily find the adress of your IR remote.
+Note: Compatible with arduino UNO
+
+== Step 1: Installation
+
+1. Open the code in the repository
+2. Edit as you like
+3. Sync with your IR remote
+4. Enjoy!
+
+== Step 2: Assemble the circuit
+
+Assemble the circuit following the diagram schematics.fzz attached to the sketch
+
+== Step 3: Load the code
+
+Upload the code contained in this sketch on to your arduino UNO Rev3
+
+=== Folder structure
+
+....
+  IRsensor            => Arduino sketch folder
+  Code.ino            => main Arduino file
+  Schematics.fzz      => an image of the required schematic
+  ReadMe.txt          => this file
+....
+
+=== License
+This project is released under a {GNU General Public License v3.0} License.
+
+=== Contributing
+To contribute to this project please contact me https://id.arduino.cc/dauntless75
+
+=== BOM
+Add the bill of the materials you need for this project.
+
+|===
+| ID | Part name      | Part number | Quantity
+| A1 | Arduino Uno    | A000066     | 1
+| S1 | IR sensor      | NS50PH3     | 1
+|===
+
+
+=== Help
+This document is written in the _AsciiDoc_ format, a markup language to describe documents.
+If you need help you can search the http://www.methods.co.nz/asciidoc[AsciiDoc homepage]
+or consult the http://powerman.name/doc/asciidoc[AsciiDoc cheatsheet]
