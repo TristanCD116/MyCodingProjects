@@ -38,10 +38,11 @@ Upload the code contained in this sketch on to your board
 To contribute to this project please contact dauntless75 https://id.arduino.cc/dauntless75
 
 === BOM
+bill of the materials you need for this project.
 
 |===
 | ID:| Part name:     | Part number:| Quantity:
-| L1 | Piezo Buzzer   |             | 1
+| L1 | Piezo Buzzer   | PKM22EPP-40 | 1
 | C1 | Electrolytic   | ESK107M016- | 1
 | -- | 100uf capacitor| AE3KA       | --
 | S1 | Servo motor    | SM-S2309S   | 1 
